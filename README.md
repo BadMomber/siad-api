@@ -6,7 +6,7 @@ It supports sync request and async watch to get siad daemon api information, it'
 
 ## Installation
 
-`npm install sia-api`
+`npm install siad-api`
 
 ## Usage Example
 
