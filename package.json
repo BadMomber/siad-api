@@ -1,6 +1,6 @@
 {
-  "name": "siad-js-api",
-  "version": "1.0.0",
+  "name": "siad-api",
+  "version": "1.0.1",
   "description": "Sia daemon JavaScript API.",
   "main": "index.js",
   "scripts": {
@@ -8,32 +8,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SiaShare/siad-js-api.git"
+    "url": "git+https://github.com/SiaHub/siad-api.git"
   },
   "keywords": [
     "Sia",
     "Siad",
     "Siacoin",
-    "Sia",
     "daemon",
-    "Sia",
     "API",
-    "Siad",
-    "API",
-    "Siacoin",
-    "API",
-    "JavaScript",
-    "API"
+    "JavaScript"
   ],
-  "author": "Timon",
+  "author": "SiaHub",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/SiaShare/siad-js-api/issues"
+    "url": "https://github.com/SiaHub/siad-api/issues"
   },
-  "homepage": "https://github.com/SiaShare/siad-js-api#readme",
+  "homepage": "https://github.com/SiaHub/siad-api#readme",
   "dependencies": {
     "btoa": "^1.1.2",
-    "xhr2": "^0.1.4",
-    "xmlhttprequest": "^1.8.0"
+    "sync-request": "^4.1.0",
+    "then-request": "^3.1.0"
   }
 }
