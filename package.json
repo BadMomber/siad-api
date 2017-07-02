@@ -1,6 +1,6 @@
 {
   "name": "siad-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sia daemon JavaScript API.",
   "main": "index.js",
   "scripts": {

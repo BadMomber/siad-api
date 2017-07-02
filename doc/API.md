@@ -135,6 +135,7 @@ Explorer
 
 | Route                          | HTTP verb | Function Usage               | Support Watch |
 | ------------------------------ | --------- |----------------------------- | ------------- |
+| /explorer                      | GET       | siad.explorer.status()       | True          |
 | /explorer/blocks/:___height___ | GET       | siad.explorer.blocks(height) | False         |
 | /explorer/hashes/:___hash___   | GET       | siad.explorer.hashes(hash)   | False         |
 
